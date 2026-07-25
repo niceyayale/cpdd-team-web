@@ -10,5 +10,18 @@
       "programming",
       "code-tools"
     ]
+  },
+  {
+    "title": "Privacy-First Social Platforms: How Team-Matching Apps Handle User Data Without Collecting It",
+    "slug": "privacy-first-social-platforms-how-team-matching-apps-handle",
+    "date": "2026-07-25",
+    "description": "A technical look at how modern team-matching and social coordination platforms minimize data collection while still enabling real-time matchmaking and cross-app deep linking.",
+    "tags": [
+      "privacy",
+      "social-platforms",
+      "deep-linking",
+      "architecture",
+      "data-minimization"
+    ]
   }
 ]
