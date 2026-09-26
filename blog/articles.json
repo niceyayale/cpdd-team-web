@@ -23,5 +23,17 @@
       "architecture",
       "data-minimization"
     ]
+  },
+  {
+    "title": "Game Matchmaking: How It Works, Key Design Choices and Real-World Optimization Practices",
+    "slug": "game-matchmaking-how-it-works-key-design-choices-and-real-wo",
+    "date": "2026-09-26",
+    "description": "",
+    "tags": [
+      "gameservers",
+      "playerexperience",
+      "multiplayerdev",
+      "skillranking"
+    ]
   }
 ]
